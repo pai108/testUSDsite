@@ -1,0 +1,55 @@
+/* Apply NVIDIA Green to all links */
+/* Global links: default and visited */
+a,
+a:visited {
+    color: #76B900 !important;
+    text-decoration: none !important;
+}
+
+/* Global links: hover, active, focus = underline */
+a:hover,
+a:active,
+a:focus {
+    color: #76B900 !important;
+    text-decoration: underline !important;
+}
+
+
+/* Sidebar active and hover links */
+.sidebar .sidebar-item a,
+.sidebar .sidebar-item a:hover,
+.sidebar .sidebar-item a:focus,
+.sidebar .sidebar-item a:active {
+    color: #76B900 !important;
+}
+
+/* Sidebar: active link = NVIDIA Green + bold + underline */
+.sidebar .sidebar-tree .sidebar-item.current > a {
+  color: var(--active-color) !important;
+  font-weight: bold !important;
+  text-decoration: underline !important;
+}
+
+
+/* Page headings */
+h1, h2, h3, h4, h5, h6 {
+    color: #76B900 !important;
+}
+
+/* Buttons and theme toggle */
+button,
+.theme-toggle {
+    color: #76B900 !important;
+    border-color: #76B900 !important;
+}
+
+/* Footer links */
+.footer a {
+    color: #76B900 !important;
+}
+
+/* Optional: highlight code blocks or inline literals */
+.literal,
+.highlighted {
+    color: #76B900 !important;
+}

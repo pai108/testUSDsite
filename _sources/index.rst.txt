@@ -1,0 +1,75 @@
+.. USD Helper documentation master file, created by
+   sphinx-quickstart on Day Mon  Date hh:mm:dd YYYY.
+   You can adapt this file completely to your liking, but it should at least
+   contain the root `toctree` directive.
+
+Universal Scene Description
+======================================
+
+.. attention::
+   This site is a PROOF OF CONCEPT to tryout basic schema/layout of sphinx-quickstart
+   
+   Reference: 'USD site <https://ziacreatesideas.github.io/STUDY_USD-GROUP/resources.html#open-usd-101>'
+
+
+This documentation summarizes the content listed in `USD <https://ziacreatesideas.github.io/STUDY_USD-GROUP/resources.html#open-usd-101>`_
+
+
+Bash Test,
+
+.. code-block:: bash
+
+   test@Z790:/home$ ls
+   
+
+Introduction
+---------------
+Content and description goes here 
+ 
+   
+
+What is USD?
+************************
+
+Getting Started with USD
+************************
+
+Prims Properties and Metadata
+************************
+
+Stage Traversal and Inspection
+************************
+
+Variant Sets
+************************
+
+LIVRPS
+************************
+
+Instancing
+--------------------
+
+
+Asset Structure
+--------------------
+
+.. toctree::
+   :hidden:
+   :caption: Getting Started
+   :maxdepth: 0
+
+   docs/USD Documentation
+   docs/Github
+   docs/Videos
+   docs/Exercises and DLI courses
+   docs/Utilities
+   docs/FAQs and Common Problems
+   docs/Definitions
+   docs/Credit and Inspiration
+
+
+
+
+
+
+
