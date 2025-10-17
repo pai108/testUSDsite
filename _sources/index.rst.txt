@@ -58,6 +58,7 @@ Asset Structure
    :caption: Getting Started
    :maxdepth: 0
 
+   docs/CAD2USD
    docs/USD Documentation
    docs/Github
    docs/Videos
